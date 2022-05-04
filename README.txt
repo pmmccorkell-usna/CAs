@@ -1,4 +1,7 @@
-1. Copy CAs folder to C:\
+1. Create CAs folder on C:\
+	Add Root CAs to C:\CAs\Root
+	Add non-Root CAs to C:\CAs\Other
+	
 
 2. Open Powershell AS ADMIN
 
