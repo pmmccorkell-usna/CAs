@@ -1,3 +1,5 @@
+Win10 Powershell script to batch add trusted root and non-root Certificate Authorities.
+
 1. Create CAs folder on C:\
 	Add Root CAs to C:\CAs\Root
 	Add non-Root CAs to C:\CAs\Other
