@@ -28,4 +28,15 @@ Win10 Powershell script to batch add trusted root and non-root Certificate Autho
 
 	Redo Step 4.
 
+5. (optional) Return to restricted state of Powershell scripts:
 
+	Set-ExecutionPolicy Restricted
+
+	y to confirm
+
+
+5a. (optional) Verify Execution Policy was changed:
+
+	Get-ExecutionPolicy
+	
+	shall return "Restricted"
